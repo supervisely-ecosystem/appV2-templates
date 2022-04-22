@@ -5,6 +5,6 @@
 
 1. Create repository using that template **including all branches**
 2. Checkout to branch based on your purposes:  
-    * `singlepage — Singlepage Application with GUI`   
-    * `headless — Headless Application without GUI`
+    * [singlepage](https://github.com/supervisely-ecosystem/appV2-templates/tree/singlepage) — Singlepage Application with GUI   
+    * [headless](https://github.com/supervisely-ecosystem/appV2-templates/tree/headless) — Headless Application without GUI
     
