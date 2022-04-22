@@ -15,7 +15,8 @@ from src.example_card.card_widgets import *
 # init fields
 ##############
 
-StateJson()['showDebugViewer'] = True
+StateJson()['exampleField'] = "My Example Value in STATE"
+DataJson()['exampleField'] = "My Example Value in DATA"
 
 
 ##############
